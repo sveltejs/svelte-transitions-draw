@@ -1,8 +1,10 @@
-# svelte-transitions-draw
+# svelte-transitions-draw ([demo](https://svelte.technology/repl?version=2.6.2&gist=897a0ede58c59201d57cee7f119bee50))
 
 Draw transition plugin for [Svelte](https://svelte.technology).
 
 This transition will only work with `<path>` elements.
+
+![draw](https://user-images.githubusercontent.com/1162160/40150651-d3451460-5948-11e8-8a8b-1986776a414e.gif)
 
 ## Usage
 
