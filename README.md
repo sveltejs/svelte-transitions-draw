@@ -2,6 +2,8 @@
 
 Draw transition plugin for [Svelte](https://svelte.technology).
 
+This transition will only work with `<path>` elements.
+
 ## Usage
 
 Recommended usage is via [svelte-transitions](https://github.com/sveltejs/svelte-transitions), but you can use this module directly if you prefer. Note that it assumes an ES module or CommonJS environment.
