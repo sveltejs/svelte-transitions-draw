@@ -1,3 +1,5 @@
+## DEPRECATED — As of Svelte v3, transitions are built into the main package
+
 # svelte-transitions-draw ([demo](https://svelte.technology/repl?version=2.6.2&gist=897a0ede58c59201d57cee7f119bee50))
 
 Draw transition plugin for [Svelte](https://svelte.technology).
