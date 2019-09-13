@@ -47,7 +47,7 @@ As with most transitions, you can specify `delay` and `duration` parameters (bot
 
 ```html
 <path
-  in:draw='{delay: 250, duration: 1000, easing: quintOut}'
+  in:draw='{delay: 250, duration: 1000, easing: elasticOut}'
   d='M10,10 L90,10 90,90 10,90 Z'
 />
 
